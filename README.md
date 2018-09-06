@@ -77,17 +77,26 @@ pao1.mat - Workspace containing the PAO1 model (Bartell, Blazier et al., 2017). 
 
 # Software information:
 MATLAB R2016a
+
 COBRA Toolbox 2.0.5
+
 Gurobi 6.5 solver
+
 optGPSampler1.1
+
 R 3.3.3
 # R-code instructions:
 Download the entire supplementary information contents into a folder
 The following packages will need to be installed:
+
 tidyverse
+
 ggdendro
+
 gdata
+
 UpSetR
+
 VennDiagram
 In R-studio, create a new R-project within the above folder
 # MATLAB-code instructions:
