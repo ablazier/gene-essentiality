@@ -29,6 +29,10 @@ Dataset_S10.csv - PAO1 candidate essential genes for in vitro screens for the up
 
 Dataset_S11.csv - PA14 candidate essential genes for in vitro screens for the updated PA14 model. Called by Code_S1.
 
+PAO1.LB.201_reanalyzed.tsv - Results from re-analysis of PAO1.LB.201 dataset. Called by Code_S1.
+
+PAO1.LB.335_reanalyzed.tsv - Results from re-analysis of PAO1.LB.335 dataset. Called by Code_S1.
+
 addExchangeRxn_JB.m - Function to add an exchange reaction to the models. Called by Code_S5.m*
 
 broadSubsys.m - Function to evaluate the functional subsystems of the models. Called by Code_S3.*
