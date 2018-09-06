@@ -1,0 +1,16 @@
+Functional_categories,TP_PAO1,TN_PAO1,FP_PAO1,FN_PAO1
+Amino Acid Metabolism,1,156,3,64
+Biosynthesis of Other Secondary Metabolites,0,1,0,3
+Carbohydrate Metabolism,1,115,3,40
+Energy Metabolism,0,53,0,12
+Exchange,0,0,0,0
+Glycan Biosynthesis and Metabolism,1,8,1,29
+Lipid Metabolism,0,47,7,16
+Metabolism of Cofactors and Vitamins,0,46,4,58
+Metabolism of Other Amino Acids,0,11,0,2
+Metabolism of Terpenoids and Polyketides,3,0,0,4
+Nucleotide Metabolism,1,32,1,29
+Other,0,26,0,10
+Transport,0,289,1,5
+Virulence Factors,0,45,0,4
+Xenobiotics Biodegradation and Metabolism,0,14,0,2

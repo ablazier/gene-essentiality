@@ -1,0 +1,16 @@
+Functional_categories,TP_PA14,TN_PA14,FP_PA14,FN_PA14
+Amino Acid Metabolism,11,170,4,36
+Biosynthesis of Other Secondary Metabolites,0,1,0,3
+Carbohydrate Metabolism,8,104,3,41
+Energy Metabolism,0,42,0,22
+Exchange,0,0,0,0
+Glycan Biosynthesis and Metabolism,8,10,1,19
+Lipid Metabolism,5,37,5,23
+Metabolism of Cofactors and Vitamins,5,54,5,44
+Metabolism of Other Amino Acids,0,12,0,1
+Metabolism of Terpenoids and Polyketides,2,0,0,5
+Nucleotide Metabolism,6,33,4,21
+Other,0,24,0,13
+Transport,0,242,1,39
+Virulence Factors,0,39,0,13
+Xenobiotics Biodegradation and Metabolism,0,9,0,7
