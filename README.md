@@ -29,6 +29,8 @@ Dataset_S10.csv - PAO1 candidate essential genes for in vitro screens for the up
 
 Dataset_S11.csv - PA14 candidate essential genes for in vitro screens for the updated PA14 model. Called by Code_S1.
 
+GFFTrim.pl - Perl code takes a GFF file on STDIN, trims the specified percentage from the 3' and 5' ends of every feature in that GFF file, and returns a GFF file suffixed ".trunc.gff" with these new starts/ends. Originally written by Keith Turner. Modified by Sean Leonard. See https://github.com/spleonard1/Tn-seq for more information.
+
 PAO1.LB.201_reanalyzed.tsv - Results from re-analysis of PAO1.LB.201 dataset. Called by Code_S1.
 
 PAO1.LB.335_reanalyzed.tsv - Results from re-analysis of PAO1.LB.335 dataset. Called by Code_S1.
