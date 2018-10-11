@@ -1,6 +1,6 @@
 # gene-essentiality
 
-Code for "Reconciling high-throughput gene essentiality data with metabolic network reconstructions" by Blazier and Papin (2018). Currently in submission.
+Code for "Reconciling high-throughput gene essentiality data with metabolic network reconstructions" by Blazier and Papin (2018). Currently under review. https://doi.org/10.1101/415448
 
 # Contents:
 Code_S1.R - R code and data to generate paper figures
